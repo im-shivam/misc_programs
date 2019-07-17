@@ -1,1 +1,3 @@
 Compact Book Store Application
+
+run pro_frontend.py to start the app
